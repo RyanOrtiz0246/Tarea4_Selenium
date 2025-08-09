@@ -1,17 +1,17 @@
-# 🚀 Pruebas Automatizadas con Selenium (C#) - Tarea 4
+# Pruebas Automatizadas con Selenium (C#) - Tarea 4
 
 **Automatización de pruebas CRUD y Login en Trello usando Selenium WebDriver y C#**
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 Este proyecto automatiza pruebas de funcionalidades críticas en **Trello** utilizando **Selenium WebDriver con C#** en Visual Studio 2022. Las pruebas cubren:
 - **Login** (éxito/fallo).
 - **Operaciones CRUD** (Crear, Leer, Actualizar, Eliminar tableros/tarjetas).
 
 ---
 
-## 🛠 Tecnologías
+## Tecnologías
 - **Lenguaje**: C# (.NET 6+)
 - **Herramientas**:
   - Selenium WebDriver
@@ -21,7 +21,7 @@ Este proyecto automatiza pruebas de funcionalidades críticas en **Trello** util
 
 ---
 
-## ⚙️ Configuración del Proyecto
+## Configuración del Proyecto
 ### Requisitos previos
 1. **Visual Studio 2022** (con .NET SDK instalado).
 2. **Navegador Chrome** (y su driver correspondente).
